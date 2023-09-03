@@ -10,7 +10,7 @@ Neste módulo veremos os conceitos de HTML e CSS estruturando de forma semântic
 - [Material complementar - Glossário HTML](https://efficient-sloth-d85.notion.site/Principais-elementos-HTML-da8b750fee5b49f2923fdc35b1c921fc)
 - Introdução ao CSS
 - O que iremos desenvolver e o que é o Figma
-- Figma do Projeto
+- [Figma do Projeto](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01/duplicate?type=design&node-id=0-1&mode=design)
 - Iniciando o projeto 01
 - Estruturando o projeto 01
 - Apresentação e posição dos elementos na tela
