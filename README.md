@@ -24,8 +24,8 @@ Neste módulo veremos os conceitos de HTML e CSS estruturando de forma semântic
 - Finalizando esta etapa
 - Utilizando o codepen para enviar desafios
 - Utilizando o Github para enviar os projetos e desafios
-- Corrigindo bugs (01)
-- Recriando layout - Extra
+- [Corrigindo bugs (01)](https://github.com/luan-prates/explorer-desafio-01)
+- [Recriando layout - Extra](https://github.com/luan-prates/explorer-recriando-layout-01)
 
 #### Conhecendo novos conceitos de HTML e CSS
 - Apresentando o projeto 02
