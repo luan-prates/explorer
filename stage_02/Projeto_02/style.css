@@ -1,12 +1,19 @@
 body {
-  margin: 100;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: normal;
-}
+  margin: 0;
 
-.page {
-  width: 1000px;
-  margin: 65px auto 0;
+  font-family: 'Open Sans', sans-serif;
+
+  background: linear-gradient(180deg,
+   rgba(227, 255, 248, 0.00) 82.08%, 
+   rgba(147, 255, 228, 0.38) 100%);
+
+   min-height: 100vh;
+  }
+  
+  .page {
+    width: 1000px;
+    margin: 0 auto;
+    padding-top: 65px ;
 }
 
 nav {
@@ -96,4 +103,10 @@ footer {
   font-size: 14px;
   line-height: 28px;
   text-align: center;
+}
+
+#balls {
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
