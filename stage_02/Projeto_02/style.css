@@ -37,7 +37,12 @@ a {
   text-decoration: none;
 }
 
+ul li a {
+  opacity: 0.5;
+}
+
 ul li a:hover{
+  opacity: 1;
   font-weight: bold;
 }
 
