@@ -1,7 +1,15 @@
-body {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, input, button, select, textarea {
   font-family: 'Poppins', sans-serif;
+}
+
+body {
   background: #D9D9D9;
-  
 }
 
 body::before{
@@ -33,6 +41,7 @@ header h1 {
   font-size: 36px;
   line-height: 42px;
   color: white;
+  margin-bottom: 24px;
 }
 
 header p {
@@ -64,4 +73,39 @@ fieldset legend {
   width: 100%;
   padding-bottom: 16px;
   border-bottom: 1px solid #e6e6f0 ;
+}
+
+
+.input-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-wrapper label {
+  color: #4E4958;
+  font-size: 14px;
+  line-height: 24px; 
+  margin-bottom: 8px;
+}
+
+.input-wrapper label span {
+  color: #C1BCCC;
+  font-size: 12px;
+  line-height: 20px; 
+  margin-left: 12px;
+}
+
+.input-wrapper input {
+  
+  color: #C1BCCC;
+  font-size: 16px;
+  line-height: 26px; 
+
+  height: 56px;
+  border-radius: 8px;
+  border: 1px solid #E6E6F0;
+  background:#FAFAFC;
+  box-sizing: border-box;
+
+  padding: 0 24px;
 }

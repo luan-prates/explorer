@@ -74,7 +74,7 @@ Neste módulo veremos sobre formulários no HTML e vários tipos de inputs. Apre
 - [x] Iniciando a estrutura do HTML e configurações do VSCode
 - [x] Iniciando os estilos da página
 - [x] Agrupando campos com fieldset e legend
-- [ ] Formatando o campo de texto
+- [x] Formatando o campo de texto
 - [ ] Ajustando novos campos dentro do fieldset
 - [ ] Estilizando o campo select
 - [ ] Aplicando estilos aos agrupamentos restantes
