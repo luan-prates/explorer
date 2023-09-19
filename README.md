@@ -66,13 +66,13 @@ Neste módulo iremos potencializar ainda mais o aprendizado com a metodologia PA
 Neste módulo veremos sobre formulários no HTML e vários tipos de inputs. Aprenderemos sobre responsividade, para que o nosso projeto se adapte a vários tipos de dispositivos. Trabalharemos com Grid no CSS e faremos transições a animações para deixar o nosso projeto ainda mais robusto.
 #### Formulários, Validações e Customizações
 
-- [ ] Visão geral do projeto
-- [ ] [Figma do Projeto](https://www.figma.com/file/qkhqsXhiF5HMzApCxD4Pqu/Explorer-Stage-03-Projeto-01-(Copy)?type=design&node-id=0-1&mode=design&t=8LVV6jHxvJ6L3CAF-0)
-- [ ] Entendendo os campos HTML
-- [ ] Como funcionam os formulários no HTML
-- [ ] Simulando a busca do google
-- [ ] Iniciando a estrutura do HTML e configurações do VSCode
-- [ ] Iniciando os estilos da página
+- [x] Visão geral do projeto
+- [x] [Figma do Projeto](https://www.figma.com/file/qkhqsXhiF5HMzApCxD4Pqu/Explorer-Stage-03-Projeto-01-(Copy)?type=design&node-id=0-1&mode=design&t=8LVV6jHxvJ6L3CAF-0)
+- [x] Entendendo os campos HTML
+- [x] Como funcionam os formulários no HTML
+- [x] Simulando a busca do google
+- [x] Iniciando a estrutura do HTML e configurações do VSCode
+- [x] Iniciando os estilos da página
 - [ ] Agrupando campos com fieldset e legend
 - [ ] Formatando o campo de texto
 - [ ] Ajustando novos campos dentro do fieldset
