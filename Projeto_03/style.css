@@ -63,6 +63,13 @@ form {
 fieldset {
   border: none;
 }
+
+.fieldset-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
 fieldset legend {
   font-family: Archivo;
   color:  #32264D;
@@ -94,18 +101,24 @@ fieldset legend {
   line-height: 20px; 
   margin-left: 12px;
 }
+.input-wrapper label span:hover {
+  color: #6c6c6c;
+}
 
 .input-wrapper input {
-  
-  color: #C1BCCC;
+  height: 56px;
+
+}
+
+.input-wrapper input, textarea {
+  color: #6c6c6c;
   font-size: 16px;
   line-height: 26px; 
 
-  height: 56px;
   border-radius: 8px;
   border: 1px solid #E6E6F0;
   background:#FAFAFC;
   box-sizing: border-box;
 
-  padding: 0 24px;
+  padding: 16px 24px;
 }
