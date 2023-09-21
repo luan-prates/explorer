@@ -9,7 +9,7 @@ body, input, button, select, textarea {
 }
 
 body {
-  background: #D9D9D9;
+  background: #C1BCCC;
 }
 
 body::before{
@@ -187,3 +187,27 @@ fieldset legend {
 .checkbox-wrapper input:focus + label::before{
   outline: 2px solid black;
 } 
+
+footer {
+  background: #D6D6D6;
+
+  height: 136px;
+
+  display: flex;
+  flex-direction: column;
+  padding: 40px 64px;
+
+  margin: 3px;
+}
+
+footer .button {
+  height: 56px;
+  background: #04D361;
+  border-radius: 8px;
+  border: none;
+  color: white;
+  font-family: Archivo;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 26px;
+}
