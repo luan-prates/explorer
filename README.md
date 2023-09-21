@@ -78,7 +78,7 @@ Neste módulo veremos sobre formulários no HTML e vários tipos de inputs. Apre
 - [x] Ajustando novos campos dentro do fieldset
 - [x] Estilizando o campo select
 - [x] Aplicando estilos aos agrupamentos restantes
-- [ ] Checkbox customizado e com acessibilidade
+- [x] Checkbox customizado e com acessibilidade
 - [ ] Criando estilos para o submit
 - [ ] Validando campos e submetendo formulários
 - [ ] Quiz 01
