@@ -81,5 +81,5 @@ Neste módulo veremos sobre formulários no HTML e vários tipos de inputs. Apre
 - [x] Checkbox customizado e com acessibilidade
 - [x] Criando estilos para o submit
 - [x] Validando campos e submetendo formulários
-- [ ] Quiz 01
+- [x] Quiz 01
 - [ ] Criando Formulário
