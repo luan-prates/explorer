@@ -83,3 +83,13 @@ Neste módulo veremos sobre formulários no HTML e vários tipos de inputs. Apre
 - [x] Validando campos e submetendo formulários
 - [x] Quiz 01
 - [x] [Criando Formulário](https://github.com/luan-prates/inscricao-mentoria)
+#### Responsividade
+- [ ] Introdução à responsividade
+- [ ] Figma do Projeto
+- [ ] Estruturando o HTML
+- [ ] Regra mobile-first
+- [ ] Regra das unidades de medidas flexíveis
+- [ ] Continuando ajustes de textos
+- [ ] Finalizando ajustes da versão mobile
+- [ ] Versão Desktop
+- [ ] Finalizando essa etapa
