@@ -85,8 +85,8 @@ Neste módulo veremos sobre formulários no HTML e vários tipos de inputs. Apre
 - [x] [Criando Formulário](https://github.com/luan-prates/inscricao-mentoria)
 #### Responsividade
 - [x] Introdução à responsividade
-- [ ] [Figma do Projeto](https://www.figma.com/file/DDFFO0Wh6wpOa0LdwNuR0y/Explorer-Stage-03-Projeto-02/duplicate?type=design&mode=design)
-- [ ] Estruturando o HTML
+- [x] [Figma do Projeto](https://www.figma.com/file/DDFFO0Wh6wpOa0LdwNuR0y/Explorer-Stage-03-Projeto-02/duplicate?type=design&mode=design)
+- [x] Estruturando o HTML
 - [ ] Regra mobile-first
 - [ ] Regra das unidades de medidas flexíveis
 - [ ] Continuando ajustes de textos
