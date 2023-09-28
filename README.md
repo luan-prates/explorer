@@ -87,8 +87,8 @@ Neste módulo veremos sobre formulários no HTML e vários tipos de inputs. Apre
 - [x] Introdução à responsividade
 - [x] [Figma do Projeto](https://www.figma.com/file/DDFFO0Wh6wpOa0LdwNuR0y/Explorer-Stage-03-Projeto-02/duplicate?type=design&mode=design)
 - [x] Estruturando o HTML
-- [ ] Regra mobile-first
-- [ ] Regra das unidades de medidas flexíveis
+- [x] Regra mobile-first
+- [x] Regra das unidades de medidas flexíveis
 - [ ] Continuando ajustes de textos
 - [ ] Finalizando ajustes da versão mobile
 - [ ] Versão Desktop
