@@ -89,7 +89,7 @@ Neste módulo veremos sobre formulários no HTML e vários tipos de inputs. Apre
 - [x] Estruturando o HTML
 - [x] Regra mobile-first
 - [x] Regra das unidades de medidas flexíveis
-- [ ] Continuando ajustes de textos
-- [ ] Finalizando ajustes da versão mobile
-- [ ] Versão Desktop
-- [ ] Finalizando essa etapa
+- [x] Continuando ajustes de textos
+- [x] Finalizando ajustes da versão mobile
+- [x] Versão Desktop
+- [x] Finalizando essa etapa
