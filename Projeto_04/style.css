@@ -1,0 +1,115 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-size: 62.5% /* 10px */;
+}
+
+body { 
+  font-family: Epilogue, sans-serif;
+  font-size: 1.6rem;
+
+  background: #ECE9FD;
+  padding: 6.0rem 2.3rem 6.6rem;
+}
+
+main {
+  max-width: 33rem;
+  margin:0 auto;
+}
+
+main p:first-child {
+  color:  #7158EF;
+
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 3.2rem;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+
+  margin-bottom: 1.7rem;
+
+}
+
+main h1 {
+  color: #090039;
+  font-weight: 800;
+  font-size: 4.0rem;
+  line-height: 4.8rem;
+  margin-bottom: 1.5rem;
+}
+
+main h1 + p {
+  color:rgba(10, 0, 57, 0.64);
+
+  line-height: 3.2rem; /* 200% */
+  margin-bottom: 3.2rem;
+}
+
+main a {
+  color:#090039;
+  line-height: 3.2rem;
+}
+
+main a:hover {
+  color:#7158EF;
+}
+
+ul{
+  margin-top: 7.2rem;
+  list-style: none;
+}
+
+ul li {
+  color:#090039;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 3.2rem;
+
+  max-width: 25.7rem;
+
+  display: flex;
+  gap: 3.8rem;
+}
+
+ul li + li {
+  margin-top: 3.2rem;
+}
+
+ul li span {
+  color: var(--Text_Dark, #090039);
+  font-feature-settings: 'clig' off, 'liga' off;
+
+  font-size: 7.2rem;
+  font-weight: 800;
+  line-height: 8rem;
+  letter-spacing: -0.2rem;
+}
+
+/* media queries */
+@media (min-width: 700px){
+  body{
+    padding: 8.0rem ;
+  }
+
+  main {
+    max-width: 1020px;
+    display: flex;
+    gap: 10rem;
+  }
+
+  main > div {
+    max-width: 484px;
+  }
+
+  ul li {
+    gap: 5.3rem;
+    max-width: 450px;
+    align-items: center;
+  }
+
+
+}
