@@ -16,6 +16,11 @@ body {
   padding: 6.0rem 2.3rem 6.6rem;
 }
 
+main {
+  max-width: 33rem;
+  margin:0 auto;
+}
+
 main p:first-child {
   color:  #7158EF;
 
@@ -31,6 +36,7 @@ main p:first-child {
 
 main h1 {
   color: #090039;
+  font-weight: 800;
   font-size: 4.0rem;
   line-height: 4.8rem;
   margin-bottom: 1.5rem;
@@ -51,7 +57,30 @@ main a {
 main a:hover {
   color:#7158EF;
 }
+
 ul{
   margin-top: 7.2rem;
   list-style: none;
+}
+
+ul li {
+  color:#090039;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 3.2rem;
+
+  max-width: 25.7rem;
+
+  display: flex;
+  gap: 3.8rem;
+}
+
+ul li span {
+  color: var(--Text_Dark, #090039);
+  font-feature-settings: 'clig' off, 'liga' off;
+
+  font-size: 7.2rem;
+  font-weight: 800;
+  line-height: 8rem;
+  letter-spacing: -0.2rem;
 }
