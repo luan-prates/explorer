@@ -75,6 +75,10 @@ ul li {
   gap: 3.8rem;
 }
 
+ul li + li {
+  margin-top: 3.2rem;
+}
+
 ul li span {
   color: var(--Text_Dark, #090039);
   font-feature-settings: 'clig' off, 'liga' off;
@@ -83,4 +87,29 @@ ul li span {
   font-weight: 800;
   line-height: 8rem;
   letter-spacing: -0.2rem;
+}
+
+/* media queries */
+@media (min-width: 700px){
+  body{
+    padding: 8.0rem ;
+  }
+
+  main {
+    max-width: 1020px;
+    display: flex;
+    gap: 10rem;
+  }
+
+  main > div {
+    max-width: 484px;
+  }
+
+  ul li {
+    gap: 5.3rem;
+    max-width: 450px;
+    align-items: center;
+  }
+
+
 }
