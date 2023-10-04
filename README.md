@@ -93,3 +93,19 @@ Neste módulo veremos sobre formulários no HTML e vários tipos de inputs. Apre
 - [x] Finalizando ajustes da versão mobile
 - [x] Versão Desktop
 - [x] Finalizando essa etapa
+
+#### Reforçando a responsividade
+- [x] Apresentação do projeto
+- [x] [Figma do Projeto](https://www.figma.com/file/MDWtr9DzdyW6oczDooESN4/Cheesecake-%E2%80%A2-Projeto-Explorer-(Community)?node-id=0%3A1&mode=dev)
+- [ ] Iniciando o projeto
+- [ ] Estrutura html do projeto
+- [ ] Iniciando o CSS
+- [ ] Ajustando as fontes do projeto
+- [ ] Cores e tamanho das fontes
+- [ ] Centralizando a caixa main
+- [ ] box sizing content box
+- [ ] Ajustando espaços e preenchimentos
+- [ ] Iniciando regras desktop
+- [ ] Dividindo e encaixando o layout
+- [ ] Ajustando as fontes e finalizando o layout para o desktop
+- [ ] Utilizando clamp para as fontes
